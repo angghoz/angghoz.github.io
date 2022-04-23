@@ -1,10 +1,15 @@
-## Portfolio
+## Portofolio
 
 ---
 
-### Category Name 1 
+### Machine Learning
 
-[Project 1 Title](/sample_page)
+[Preprocessing](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Preprocessing](/prepro.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
