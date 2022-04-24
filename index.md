@@ -12,24 +12,23 @@ Peramalan IHK Perbulan di indonesia
 <img src="images/naive.jpg?raw=true"/>
 
 ---
-### Forecasting
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Peramalan IHK di Provinsi DIY 2022 Menggunakan ARIMA](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projek Lainnya
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Analisis Pengendalian Kualitas Menggunakan Grafik Pengendali P](http://example.com/)
+- [Analisis Persentase Kemiskinan di Jateng Menggunakan Regresi Polinomial](http://example.com/)
+- [Spatial Pattern Analysis Untuk Mengidentifikasi AHH di Jatim 2019](http://example.com/)
+- [Regresi Spasial untuk Menentukan Faktor-Faktor AHH di Provinsi Jawa Timur Tahun 2019](http://example.com/)
+- [Penerapan Rantai Markov Untuk Memprediksi Curah Hujan di Kab Bogor](http://example.com/)
 
 ---
 
