@@ -4,8 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Saya merupakan mahasiswa Program Studi S-1 Statistika Universitas Sebelas Maret angkatan 2019. Saya memiliki minat serta pengalaman dalam pengolahan data dan informasi.
   <br><br>
    
-  <br><br>
   <a href="https://www.linkedin.com/in/anggita-g-517b75204/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-312543603 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
