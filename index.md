@@ -13,11 +13,20 @@ Peramalan IHK Perbulan di indonesia
 
 ---
 
-[Peramalan IHK di Provinsi DIY 2022 Menggunakan ARIMA](/pdf/sample_presentation.pdf)
+Peramalan IHK di Provinsi DIY 2022 Menggunakan ARIMA
+---
+[Syntax](https://colab.research.google.com/drive/1KDsGdT6J0Pvq0dW-jVXNSGXQPyi5ISxw?usp=sharing)
+---
+[Visualisasi dan Interpretasi](peramalan.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter](http://example.com/)
+
+Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter
+---
+[Syntax](http://example.com/)
+---
+[Visualisasi dan Interpretasi](peramalan.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
