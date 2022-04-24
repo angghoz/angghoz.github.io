@@ -38,6 +38,7 @@ Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter
 - [Spatial Pattern Analysis Untuk Mengidentifikasi AHH di Jatim 2019](http://example.com/)
 - [Regresi Spasial untuk Menentukan Faktor-Faktor AHH di Provinsi Jawa Timur Tahun 2019](http://example.com/)
 - [Penerapan Rantai Markov Untuk Memprediksi Curah Hujan di Kab Bogor](http://example.com/)
+- [Penerapan Metode Klasifikasi Random Forest dalam Mengidentifikasi Faktor yang Memengaruhi Intensitas Curah Hujan Kota Bogor](http://example.com/)
 
 ---
 
