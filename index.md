@@ -5,6 +5,7 @@
 ### Machine Learning
 
 [Syntax](https://colab.research.google.com/drive/1KDsGdT6J0Pvq0dW-jVXNSGXQPyi5ISxw?usp=sharing)
+---
 [Visualisasi dan Interpretasi](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
