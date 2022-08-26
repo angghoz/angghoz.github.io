@@ -13,12 +13,12 @@ Peramalan IHK Perbulan di indonesia
 
 ---
 
-Peramalan IHK di Provinsi DIY 2022 Menggunakan ARIMA
+FRAUD DETECTION USING RANDOM FOREST AND XGBOOST
 ---
-[Syntax](https://colab.research.google.com/drive/1KDsGdT6J0Pvq0dW-jVXNSGXQPyi5ISxw?usp=sharing)
+[Syntax](https://colab.research.google.com/drive/1bts6EyFEnVWOWKCG9B5FFQfQGDDHaccS?usp=sharing)
 ---
-[Visualisasi dan Interpretasi](peramalan.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Visualisasi dan Interpretasi](FRAUD.pdf)
+<img src="images/fraud.jpg?raw=true"/>
 
 ---
 
