@@ -12,6 +12,7 @@ Peramalan IHK Perbulan di indonesia
 <img src="images/naive.jpg?raw=true"/>
 
 ---
+### Machine Learning
 
 FRAUD DETECTION USING RANDOM FOREST AND XGBOOST
 ---
