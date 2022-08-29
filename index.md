@@ -21,7 +21,6 @@ FRAUD DETECTION USING RANDOM FOREST AND XGBOOST
 <img src="images/fraud.jpg?raw=true"/>
 ---
 [Google Data Studio](https://datastudio.google.com/reporting/76d32190-e5ba-4ca5-829f-edcc676de95f)
-
 ---
 
 Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter
