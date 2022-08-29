@@ -17,10 +17,11 @@ FRAUD DETECTION USING RANDOM FOREST AND XGBOOST
 ---
 [Syntax](https://colab.research.google.com/drive/1bts6EyFEnVWOWKCG9B5FFQfQGDDHaccS?usp=sharing)
 ---
+[Google Data Studio](https://datastudio.google.com/reporting/76d32190-e5ba-4ca5-829f-edcc676de95f)
+---
 [Visualisasi dan Interpretasi](FRAUD.pdf)
 <img src="images/fraud.jpg?raw=true"/>
----
-[Google Data Studio](https://datastudio.google.com/reporting/76d32190-e5ba-4ca5-829f-edcc676de95f)
+
 ---
 
 Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter
