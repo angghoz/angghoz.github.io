@@ -32,7 +32,7 @@ KLASIFIKASI PENYAKIT DIABETES MENGGUNAKAN ALGORITMA RANDOM FOREST & SUPPORT VECT
 [Syntax SVM](https://colab.research.google.com/drive/1eMjfLJsqGptpMxoh55L-XRDnTzrQ2WQr?usp=sharing)
 ---
 [Visualisasi dan Interpretasi](Diabetes.pdf)
-<img src="images/diabetes.jpg?raw=true"/>
+<img src="images/Diabetes.jpg?raw=true"/>
 ---
 
 Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter
