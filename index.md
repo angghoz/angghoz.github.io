@@ -25,6 +25,16 @@ FRAUD DETECTION USING RANDOM FOREST AND XGBOOST
 
 ---
 
+KLASIFIKASI PENYAKIT DIABETES MENGGUNAKAN ALGORITMA RANDOM FOREST & SUPPORT VECTOR MACHINE
+---
+[Syntax RF](https://colab.research.google.com/drive/1JUF2vhkZoi5EqkdEmzFxH3_oHyVlmmT1?usp=sharing)
+---
+[Syntax SVM](https://colab.research.google.com/drive/1eMjfLJsqGptpMxoh55L-XRDnTzrQ2WQr?usp=sharing)
+---
+[Visualisasi dan Interpretasi](Diabetes.pdf)
+<img src="images/diabetes.jpg?raw=true"/>
+---
+
 Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter
 ---
 [Syntax](http://example.com/)
