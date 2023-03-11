@@ -16,7 +16,7 @@ Peramalan IHK Perbulan di indonesia
 Peramalan IHK di Provinsi DIY Menggunakan ARIMA
 ---
 [Visualisasi dan Interpretasi](peramalan2.pdf)
-<img src="images/peramalan2.jpg?raw=true"/>
+<img src="images/peramalan2.png?raw=true"/>
 
 ---
 ### Machine Learning
@@ -47,7 +47,7 @@ ANALISIS CLUSTER MENGGUNAKAN METODE K-MEANS PADA KABUPATEN/KOTA DI PROVINSI JAWA
 [Syntax](https://drive.google.com/file/d/1ukR-0SkTyz9KHjm8iJDYWi5WT6j6MVF_/view?usp=share_link)
 ---
 [Visualisasi dan Interpretasi](CLUSTERING.pdf)
-<img src="images/CLUSTERING.jpg?raw=true"/>
+<img src="images/CLUSTERING.png?raw=true"/>
 
 ---
 
@@ -56,7 +56,7 @@ Data Cleaning
 [Syntax](https://drive.google.com/file/d/1xaU4S5sJ_xnwodYjqHgQHScc6z0otPtr/view?usp=share_link)
 ---
 [Visualisasi dan Interpretasi](CLEANING.pdf)
-<img src="images/CLEANING.jpg?raw=true"/>
+<img src="images/CLEANING.png?raw=true"/>
 
 ### Projek Lainnya
 
