@@ -12,6 +12,13 @@ Peramalan IHK Perbulan di indonesia
 <img src="images/naive.jpg?raw=true"/>
 
 ---
+
+Peramalan IHK di Provinsi DIY Menggunakan ARIMA
+---
+[Visualisasi dan Interpretasi](peramalan2.pdf)
+<img src="images/peramalan2.jpg?raw=true"/>
+
+---
 ### Machine Learning
 
 FRAUD DETECTION USING RANDOM FOREST AND XGBOOST
@@ -35,14 +42,21 @@ KLASIFIKASI PENYAKIT DIABETES MENGGUNAKAN ALGORITMA RANDOM FOREST & SUPPORT VECT
 <img src="images/Diabetes.jpg?raw=true"/>
 ---
 
-Peramalan PDB di Indonesia Menggunakan Dekomposisi & Winter
+ANALISIS CLUSTER MENGGUNAKAN METODE K-MEANS PADA KABUPATEN/KOTA DI PROVINSI JAWA TENGAH BERDASARKAN INDIKATOR INDEKS PEMBANGUNAN MANUSIA TAHUN 2021
 ---
-[Syntax](http://example.com/)
+[Syntax](https://drive.google.com/file/d/1ukR-0SkTyz9KHjm8iJDYWi5WT6j6MVF_/view?usp=share_link)
 ---
-[Visualisasi dan Interpretasi](peramalan.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Visualisasi dan Interpretasi](CLUSTERING.pdf)
+<img src="images/CLUSTERING.jpg?raw=true"/>
 
 ---
+
+Data Cleaning
+---
+[Syntax](https://drive.google.com/file/d/1xaU4S5sJ_xnwodYjqHgQHScc6z0otPtr/view?usp=share_link)
+---
+[Visualisasi dan Interpretasi](CLEANING.pdf)
+<img src="images/CLEANING.jpg?raw=true"/>
 
 ### Projek Lainnya
 
