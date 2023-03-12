@@ -51,6 +51,15 @@ ANALISIS CLUSTER MENGGUNAKAN METODE K-MEANS PADA KABUPATEN/KOTA DI PROVINSI JAWA
 
 ---
 
+A/B TESTING
+---
+[Syntax](https://colab.research.google.com/drive/1qDdIyovnTiqRHaAEFr7mxiQtauMP1oPM?usp=sharing)
+---
+[Visualisasi dan Interpretasi](AB_Testing.pdf)
+<img src="images/TESTING1.png?raw=true"/>
+
+---
+
 Data Cleaning
 ---
 [Syntax](https://drive.google.com/file/d/1xaU4S5sJ_xnwodYjqHgQHScc6z0otPtr/view?usp=share_link)
